@@ -7,7 +7,7 @@
 - **Bacharelado em Sistemas de Informação** pela Estácio
 - **Pós-Graduação MBA em Engenharia de Sistemas** pela ESAB
 - **Especialização em Computação na Nuvem** pelo SENAC
-- **Especialização em Ciência de Dados** pelo IPOG (em andamento)
+- **Especialização em Ciência de Dados** pelo IPOG
   
 <p>Atualmente, além de atuar como desenvolvedor, sou também **professor de informática** na Escola Técnica de Brasília, onde compartilho meu conhecimento e experiências com novos profissionais da área.</p>
 
